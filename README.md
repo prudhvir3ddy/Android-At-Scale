@@ -1,1 +1,34 @@
 # Android-At-Scale
+
+- Modularisation
+- Sub modularisation
+- Design system
+  - Lint checks, to not allow other design
+  - Support theming like dark mode
+  - Support failure screens like internet issue
+  - Build based on an Atomic design pattern 
+- Remote caching of builds
+- Observability with Slack alerts
+  - Logging failure cases
+  - Logging frames skip
+- Automated releases
+- Crash monitoring
+- Lint checks
+- Leakcanary
+  - Integration in UI tests
+- Networking Foundation
+  - Centralised logger for all network requests 
+  - Adapters to handle errors
+- Navigation & Deeplinks
+- Analytics SDK
+- Feature flags SDK
+- Authentication SDK
+- Accessibility
+- Push notifications tooling
+- Localization
+- App size
+- Permission handling
+- Location handling
+- Currency handling
+- Baseline profiles
+- Server driven UI setup
