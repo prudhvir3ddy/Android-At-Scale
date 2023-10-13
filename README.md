@@ -12,7 +12,7 @@
   - Logging failure cases
   - Logging frames skip
 - Automated releases
-- Crash monitoring
+- Crash monitoring with Namespaces of team
 - Lint checks
 - Leakcanary
   - Integration in UI tests
