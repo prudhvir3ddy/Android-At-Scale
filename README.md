@@ -35,3 +35,6 @@
 - In-app debug drawer on debug builds
 - A GitHub bot which adds a commit to fix formatting issues
 - Internal codelabs to onboard engineers. 
+- Code health dashboard
+- Screenshot testing infrastructure
+
