@@ -8,6 +8,7 @@
   - Support failure screens like internet issue
   - Build based on an Atomic design pattern 
 - Remote caching of builds
+- Configuration caching
 - Observability with Slack alerts
   - Logging failure cases
   - Logging frames skip
@@ -38,3 +39,14 @@
 - Code health dashboard
 - Screenshot testing infrastructure
 
+
+## Upstream roadmaps
+
+- Kotlin
+  - https://kotlinlang.org/docs/roadmap.html
+- Gradle
+  - https://github.com/gradle/build-tool-roadmap 
+- Android Gradle Plugin
+  - https://developer.android.com/build/releases/gradle-plugin-roadmap
+- Jetpack compose
+  - https://developer.android.com/jetpack/androidx/compose-roadmap
