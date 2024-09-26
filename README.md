@@ -28,6 +28,7 @@
 - Push notifications tooling
 - Localization
 - App size
+  - Use a common design system library icons over adding icons manually
 - Permission handling
 - Location handling
 - Currency handling
